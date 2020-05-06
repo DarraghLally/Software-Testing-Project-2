@@ -1,0 +1,47 @@
+Game Characteristics
+As this will be a platformer, this game will:
+• Allow the player to control a specific character, that has an important fictional/narrative role.
+• Have game statistics and/or relational attributes with other game objects, enemies, and/or the player character.
+• Allow the player to take on and navigate the levels using an easy-to-use user interface.
+• Have obstacles that the player must overcome, such as enemies and bosses.
+
+Game Assets
+The game uses several assets to create its levels and characters. These assets were made primarily in Aseprite, which lets you create 2D sprites and animations. The background was ‘made’ using Pixelator, which converts images into pixel art sprites. In the project folder provided, the following assets are included:
+
+- Front End
+The game will have three options on start-up: ‘Play’, ‘Settings’, and ‘Exit Game’.
+Selecting ‘Play’ will take the player into the game and the player will begin at Level 1. If a save system is able to be implemented, the player will begin at their last saved point. ‘Settings’ will allow the player to edit game settings, such as sound level and music level. ‘Exit Game’ will quit the application’. OPTIONAL: Include a ‘Load Save’, ‘Save Game’, and ‘Delete Save’ option. This will allow the player to create multiple save files and be able to choose which one to load.
+
+- In-Game Menus
+The game will include a number of options when the game is paused, similar to those available on start up. The player will be able to resume the game, access settings, restart the level, and exit the game. The player can resume the game by selecting the appropriate option or simply pressing the assigned button for pausing/resuming the game. The player can access the settings and can adjust the sound level and music level, for example. Choosing to restart the level will reset the entire level. This entails
+resetting the player’s position to where they were when they first started, resetting the enemies’ position, and resetting any and all pickups.
+
+- Control Mechanisms -
+Move Forward
+Right arrow key/D
+Arrow on screen
+
+Move Backwards
+Left arrow key/A
+Arrow on screen
+
+Jump
+Up arrow key/W
+Arrow on screen
+
+Crouch
+C
+Arrow on screen (hold)
+
+Attack
+Left mouse click/R
+Dedicated button
+
+Pause/Resume
+Spacebar
+Button in top right of screen
+
+- The Game
+Once the player has opened the game, they will be presented with three options: ‘Play’, ‘Settings’, and ‘Exit Game’. Selecting ‘Play’ will take the player into the game and load the first level. The game will start immediately. From here, the player can progress through the level and once completed and once completed, the next level will load. At the start of the first level, text will appear on-screen informing the player of the control screen. The game will feature at least three levels, with each increasing in difficulty. This could range from having more and more enemies in the progressive levels, enemies having more health, the player character having less enemies, etc. Once the player has completed all the levels, the player will be presented with the option to either start again from the first level or quit the game. If the player chooses
+‘Settings’ instead, they can instead adjust the sound level or music level. ‘Exit Game’ will close the game.
+Once inside the game, the player can pause the game at any time. From here, they can access a number of options: resume the game, access settings, restart the level, or exit the game.
